@@ -1,8 +1,4 @@
-Sistema de Gestión de Cursos para Docentes
-
-Este proyecto tiene como objetivo desarrollar un sistema de gestión de cursos para docentes utilizando Nest.js, que permita la gestión de cursos, la creación de temas, la marcación de temas como revisados o pendientes de revisión, y la implementación de un CRUD para los temas.
-Organizador Gráfico
-
+# Sistema de Gestión de Cursos para Docentes
 ```mermaid
 
 graph TD;
@@ -26,7 +22,10 @@ graph TD;
   O --> Q[Configuración y ejecución del proyecto]
   O --> R[Configuración y ejecución del frontend (opcional)]
 ```
-# Descripción detallada
+## Sistema de Gestión de Cursos para Docentes
+
+Este proyecto tiene como objetivo desarrollar un sistema de gestión de cursos para docentes utilizando Nest.js, que permita la gestión de cursos, la creación de temas, la marcación de temas como revisados o pendientes de revisión, y la implementación de un CRUD para los temas.
+Organizador Gráfico
 
 ## Evaluación
 
