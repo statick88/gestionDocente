@@ -17,9 +17,9 @@ graph TD;
   L --> D
   D --> M[Repositorio de GitHub]
   D --> N[Documentación detallada]
-  D --> O[Capturas de pantalla o vídeos demostrativos]
+  D --> O[Capturas de pantalla o vdeos demostrativos]
   N --> P[Configuración y ejecución del proyecto]
-
+```
 ## Evaluación
 
 Se evalúa la necesidad de desarrollar un sistema de gestión de cursos para docentes.
