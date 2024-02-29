@@ -1,6 +1,6 @@
 # Sistema de Gestión de Cursos para Docentes
-```mermaid
 
+```mermaid
 graph TD;
   A[Evaluación] --> B[Configuración del Proyecto]
   B --> C[Desarrollo del Backend]
@@ -21,6 +21,7 @@ graph TD;
   E --> P[Capturas de pantalla o vídeos demostrativos]
   O --> Q[Configuración y ejecución del proyecto]
   O --> R[Configuración y ejecución del frontend (opcional)]
+
 ```
 ## Sistema de Gestión de Cursos para Docentes
 
