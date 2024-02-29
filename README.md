@@ -23,7 +23,8 @@ graph TD;
 ## Evaluación
 
 Se evalúa la necesidad de desarrollar un sistema de gestión de cursos para docentes.
-Configuración del Proyecto
+
+## Configuración del Proyecto
 
 Se utiliza Nest.js para configurar el backend y se establece una base de datos MongoDB para almacenar la información de los cursos y los temas.
 
