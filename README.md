@@ -6,7 +6,7 @@ graph TD;
   B --> C[Desarrollo del Backend]
   C --> D[Desarrollo del Frontend]
   D --> E[Implementación de Seguridad]
-  E --> F[Pruebas Unitarias con Jest]
+  E --> F[Pruebas Unitarias con Jest en Backend]
   F --> G[Entregable]
   C --> H[Gestión de Cursos]
   C --> I[Gestión de Temas]
@@ -23,14 +23,6 @@ graph TD;
   O --> R[Configuración y ejecución del frontend]
 
 ```
-## Sistema de Gestión de Cursos para Docentes
-
-Este proyecto tiene como objetivo desarrollar un sistema de gestión de cursos para docentes utilizando Nest.js, que permita la gestión de cursos, la creación de temas, la marcación de temas como revisados o pendientes de revisión, y la implementación de un CRUD para los temas.
-Organizador Gráfico
-
-## Evaluación
-
-Se evalúa la necesidad de desarrollar un sistema de gestión de cursos para docentes.
 
 ## Configuración del Proyecto
 
@@ -44,19 +36,16 @@ Se crea un módulo para la gestión de los cursos, con operaciones CRUD, así co
 
 Se utiliza Angular, React o Vue.js para desarrollar el frontend, diseñando e implementando la interfaz de usuario para la gestión de cursos y temas. Se integra la interfaz de usuario con el backend mediante peticiones HTTP para consumir los endpoints RESTful.
 
-## Implementación de Seguridad (opcional)
+## Implementación de Seguridad
 
 Se implementan medidas de seguridad en el backend para proteger las rutas y acciones del sistema, utilizando técnicas como la autenticación basada en tokens JWT.
 
-## Pruebas Unitarias con Jest
+## Pruebas Unitarias con Jest en Backend
 
 Se escriben pruebas unitarias para verificar el correcto funcionamiento de los controladores y servicios del backend, utilizando Jest como framework de pruebas.
 
-# Entregable
+## Entregable
 
-1.  Repositorio de GitHub con el código fuente del proyecto.
-2.  Documentación detallada sobre la configuración y ejecución del proyecto, tanto en el frontend (opcional) como en el backend.
-3.  Capturas de pantalla o vídeos demostrativos que muestren el sistema en funcionamiento.
-
-Alternativamente, para visualizar y probar la generación del sistema backend y su consumo desde un Frontend, puedes utilizar herramientas como Thunder Client, Postman, Insomnia o RapidApiClient. Estas herramientas permiten realizar solicitudes HTTP a los endpoints del backend, lo que facilita la visualización de los datos y el funcionamiento del sistema en tiempo real.
 Se entrega un repositorio de GitHub con el código fuente del proyecto, documentación detallada sobre la configuración y ejecución del proyecto (tanto en el frontend como en el backend), y capturas de pantalla o vídeos demostrativos que muestren el sistema en funcionamiento.
+
+Para visualizar y probar la generación del sistema backend y su consumo desde un Frontend, puedes utilizar herramientas como Thunder Client, Postman, Insomnia o RapidApiClient. Estas herramientas permiten realizar solicitudes HTTP a los endpoints del backend, lo que facilita la visualización de los datos y el funcionamiento del sistema en tiempo real.
