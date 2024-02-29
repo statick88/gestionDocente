@@ -5,7 +5,7 @@ graph TD;
   A[Evaluación] --> B[Configuración del Proyecto]
   B --> C[Desarrollo del Backend]
   C --> D[Desarrollo del Frontend]
-  D --> E[Implementación de Seguridad]
+  D --> C[Implementación de Seguridad]
   E --> F[Pruebas Unitarias con Jest en Backend]
   F --> G[Entregable]
   C --> H[Gestión de Cursos]
@@ -16,9 +16,9 @@ graph TD;
   I --> L[Relación entre Cursos y Temas]
   D --> M[Integración con Backend]
   M --> E
-  E --> N[Repositorio de GitHub]
-  E --> O[Documentación detallada]
-  E --> P[Capturas de pantalla o vídeos demostrativos]
+  E --> C[Repositorio de GitHub]
+  E --> C[Documentación detallada]
+  E --> C[Capturas de pantalla o vídeos demostrativos]
   O --> Q[Configuración y ejecución del proyecto]
   O --> R[Configuración y ejecución del frontend]
 
