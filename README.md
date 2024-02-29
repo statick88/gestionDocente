@@ -4,7 +4,7 @@
 graph TD;
   A[Evaluación] --> B[Configuración del Proyecto]
   B --> C[Desarrollo del Backend]
-  C --> D[Desarrollo del Frontend (opcional)]
+  C --> D[Desarrollo del Frontend]
   D --> E[Implementación de Seguridad]
   E --> F[Pruebas Unitarias con Jest]
   F --> G[Entregable]
@@ -20,7 +20,7 @@ graph TD;
   E --> O[Documentación detallada]
   E --> P[Capturas de pantalla o vídeos demostrativos]
   O --> Q[Configuración y ejecución del proyecto]
-  O --> R[Configuración y ejecución del frontend (opcional)]
+  O --> R[Configuración y ejecución del frontend]
 
 ```
 ## Sistema de Gestión de Cursos para Docentes
